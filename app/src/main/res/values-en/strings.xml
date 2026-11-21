@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brawl Arena</string>
+    <string name="tagline">One arena, 6 brawlers, one winner</string>
+    <string name="play">Play</string>
+    <string name="choose_brawler">Choose your brawler</string>
+    <string name="how_to_play">How to play</string>
+    <string name="how_to_text">Move with the left joystick, shoot with the FIRE button — aiming is automatic. Your SUPER charges as you deal damage. Grab the blue cubes for more power and health. Enemies cannot see you in bushes. Last one standing wins!</string>
+    <string name="trophies">Trophies</string>
+    <string name="victory">Victory!</string>
+    <string name="defeat">Defeat</string>
+    <string name="placement">#%1$d / 6</string>
+    <string name="kills">Kills</string>
+    <string name="play_again">Play again</string>
+    <string name="back_to_menu">Menu</string>
+    <string name="language">Language</string>
+    <string name="alive">Left: %1$d</string>
+    <string name="cubes_label">Cubes: %1$d</string>
+    <string name="fire">FIRE</string>
+    <string name="super_label">SUPER</string>
+    <string name="poison_warning">Poison! Everyone takes damage</string>
+    <string name="you">You</string>
+    <string name="hp_stat">HP: %1$d</string>
+    <string name="damage_stat">Damage: %1$d</string>
+    <string name="range_stat">Range: %1$d</string>
+    <string name="speed_stat">Speed: %1$d</string>
+    <string name="offline_note">Offline game — no ads</string>
+    <string name="brawler_grom_name">Grom</string>
+    <string name="brawler_grom_desc">Close combat — 5 pellets in one shot</string>
+    <string name="brawler_hunter_name">Hunter</string>
+    <string name="brawler_hunter_desc">Long range — one precise, heavy bullet</string>
+    <string name="brawler_grenadier_name">Grenadier</string>
+    <string name="brawler_grenadier_desc">Lobs bombs over walls — area explosion</string>
+</resources>
