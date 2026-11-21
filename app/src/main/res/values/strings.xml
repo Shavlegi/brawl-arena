@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brawl Arena</string>
+    <string name="tagline">არენა, 6 მებრძოლი, ერთი გამარჯვებული</string>
+    <string name="play">თამაში</string>
+    <string name="choose_brawler">აირჩიე მებრძოლი</string>
+    <string name="how_to_play">როგორ ვითამაშო</string>
+    <string name="how_to_text">მარცხენა ჯოისტიკით მოძრაობ, FIRE ღილაკით ისვრი — დამიზნება ავტომატურია. SUPER ივსება, როცა ზიანს აყენებ. აიღე ლურჯი კუბები — მეტი ძალა და სიცოცხლე. ბუჩქებში მტრები ვერ გხედავენ. ბოლო გადარჩენილი იგებს!</string>
+    <string name="trophies">თროფები</string>
+    <string name="victory">გამარჯვება!</string>
+    <string name="defeat">დამარცხდი</string>
+    <string name="placement">#%1$d / 6</string>
+    <string name="kills">მოკვლები</string>
+    <string name="play_again">კიდევ ერთხელ</string>
+    <string name="back_to_menu">მენიუ</string>
+    <string name="language">ენა</string>
+    <string name="alive">დარჩა: %1$d</string>
+    <string name="cubes_label">კუბები: %1$d</string>
+    <string name="fire">FIRE</string>
+    <string name="super_label">SUPER</string>
+    <string name="poison_warning">შხამი! ყველა ზიანდება</string>
+    <string name="you">შენ</string>
+    <string name="hp_stat">HP: %1$d</string>
+    <string name="damage_stat">ზიანი: %1$d</string>
+    <string name="range_stat">მანძილი: %1$d</string>
+    <string name="speed_stat">სიჩქარე: %1$d</string>
+    <string name="offline_note">ოფლაინ თამაში — რეკლამის გარეშე</string>
+    <string name="brawler_grom_name">გრომი</string>
+    <string name="brawler_grom_desc">ახლო ბრძოლა — 5 ტყვია ერთ გასროლაში</string>
+    <string name="brawler_hunter_name">მონადირე</string>
+    <string name="brawler_hunter_desc">შორი მანძილი — ზუსტი, ძლიერი ტყვია</string>
+    <string name="brawler_grenadier_name">ყუმბარა</string>
+    <string name="brawler_grenadier_desc">ყუმბარები კედლებს მიღმა — აფეთქება არეალში</string>
+</resources>
