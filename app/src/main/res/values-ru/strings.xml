@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brawl Arena</string>
+    <string name="tagline">Одна арена, 6 бойцов, один победитель</string>
+    <string name="play">Играть</string>
+    <string name="choose_brawler">Выбери бойца</string>
+    <string name="how_to_play">Как играть</string>
+    <string name="how_to_text">Двигайся левым джойстиком, стреляй кнопкой FIRE — прицел автоматический. SUPER заряжается, когда ты наносишь урон. Собирай синие кубы — больше силы и здоровья. В кустах враги тебя не видят. Последний выживший побеждает!</string>
+    <string name="trophies">Трофеи</string>
+    <string name="victory">Победа!</string>
+    <string name="defeat">Поражение</string>
+    <string name="placement">#%1$d / 6</string>
+    <string name="kills">Убийства</string>
+    <string name="play_again">Ещё раз</string>
+    <string name="back_to_menu">Меню</string>
+    <string name="language">Язык</string>
+    <string name="alive">Осталось: %1$d</string>
+    <string name="cubes_label">Кубы: %1$d</string>
+    <string name="fire">ОГОНЬ</string>
+    <string name="super_label">SUPER</string>
+    <string name="poison_warning">Яд! Все получают урон</string>
+    <string name="you">Ты</string>
+    <string name="hp_stat">HP: %1$d</string>
+    <string name="damage_stat">Урон: %1$d</string>
+    <string name="range_stat">Дальность: %1$d</string>
+    <string name="speed_stat">Скорость: %1$d</string>
+    <string name="offline_note">Офлайн-игра — без рекламы</string>
+    <string name="brawler_grom_name">Гром</string>
+    <string name="brawler_grom_desc">Ближний бой — 5 дробинок за выстрел</string>
+    <string name="brawler_hunter_name">Охотник</string>
+    <string name="brawler_hunter_desc">Дальняя дистанция — точная тяжёлая пуля</string>
+    <string name="brawler_grenadier_name">Гренадёр</string>
+    <string name="brawler_grenadier_desc">Бросает бомбы через стены — взрыв по площади</string>
+</resources>
